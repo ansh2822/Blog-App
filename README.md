@@ -1,5 +1,7 @@
 # Blog-App
 
+![HomePage](blog.png)
+
 ## Overview
 
 This project is a robust blogging platform that allows users to create accounts, publish blogs, and interact with other users through comments. The platform is built using the EJS templating engine for the frontend, and Node.js and Express.js for the backend. Data is stored in MongoDB databases, with three main collections: `blogs`, `users`, and `comments`. The authentication and authorization mechanisms are implemented using JSON Web Tokens (JWT) generated with the help of the crypto library.
